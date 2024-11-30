@@ -1,5 +1,8 @@
 # DATASET
-/cv-corpus-19.0-delta-2024-09-13/*
+/cv-corpus-10.0-delta-2022-07-04/*
+
+# Clips in WAV format
+/wav_clips/*
 
 # VENV
 /.venv/*
